@@ -1,26 +1,32 @@
-// check the installled Python version on your system
+``` check the installled Python version on your system
 // Windows = cmd
 // C:\Users\User>python
 // Python 3.7.5 (tags/v3.7.5:5c02a39a0b, Oct 14 2019, 23:09:19) [MSC v.1916 32 bit (Intel)] on win32
 // Type "help", "copyright", "credits" or "license" for more information.
 // >>>
+```
 
-// a simple function
->>> print("HelloWorld")
-HelloWorld
-// stop running python
+print("Hello Python World")
+
+
+## a simple function
+## >>> print("HelloWorld")
+## HelloWorld
+
+```
+stop running python
 >>> quit()
 
-// switch drive from C to D 
+## switch drive from C to D 
 C:\Users\User>D:
 
 D:\>
 
-// go into existing forlder with cd
+## go into existing forlder with cd
 D:\>cd ExistingFolder
 D:\ExistingFolder\>
 
-// go back to the upper folder
+ go back to the upper folder
 D:\ExistingFolder\>cd\
 D:\>
 
@@ -36,5 +42,5 @@ D:\Python1>atom
 // run the programm from your command line and get the result
 D:\Python1>python HelloWorld.py
 HelloWorld
-
+```
 
